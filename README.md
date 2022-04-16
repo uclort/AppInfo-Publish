@@ -13,5 +13,6 @@
 
 ## Perview
 
-![Preview](./Preview/perview.jpg)
+![Preview](./Preview/preview_light.png)
 
+![Preview](./Preview/preview_dark.png)
