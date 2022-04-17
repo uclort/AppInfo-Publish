@@ -1,4 +1,12 @@
 # AppInfo-Publish
+# iOS
+
+## Install
+
+* [AltStore](https://altstore.io/)
+
+# macOS
+
 ## Install
 
 - Homebrew
