@@ -39,12 +39,12 @@
 
 ### Perview
 
-<div align=”center“>
-  <a href=”https://github.com/uclort/AppInfo-Publish/tree/main/Preview“>
-  <img src=”./Preview/mac_light.png“/>
+<div align="center">
+  <a href="https://github.com/uclort/AppInfo-Publish/tree/main/Preview">
+  <img src="./Preview/mac_light.png"/>
 </div>
 
-<div align=”center“>
-  <a href=”https://github.com/uclort/AppInfo-Publish/tree/main/Preview“>
-  <img src=”./Preview/mac_dark.png“/>
+<div align="center“">
+  <a href="https://github.com/uclort/AppInfo-Publish/tree/main/Preview">
+  <img src="./Preview/mac_dark.png"/>
 </div>
