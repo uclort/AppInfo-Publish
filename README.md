@@ -13,14 +13,14 @@
 
 <div align="center">
   <a href="https://github.com/uclort/AppInfo-Publish/tree/main/Preview">
-  <img height="800" src="./Preview/ios_light_list.png"/>
-  <img height="800" src="./Preview/ios_light_detail.png"/>
+  <img width="300em" src="./Preview/ios_light_list.png"/>
+  <img width="300em" src="./Preview/ios_light_detail.png"/>
 </div>
 
 <div align="center">
   <a href="https://github.com/uclort/AppInfo-Publish/tree/main/Preview">
-  <img height="800em" src="./Preview/ios_dark_list.png"/>
-  <img height="800em" src="./Preview/ios_dark_detail.png"/>
+  <img width="300em" src="./Preview/ios_dark_list.png"/>
+  <img width="300em" src="./Preview/ios_dark_detail.png"/>
 </div>
 
 
