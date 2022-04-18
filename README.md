@@ -1,5 +1,5 @@
 # AppInfo-Publish
-# iOS
+# iOS&iPadOS
 
 ### Download
 
